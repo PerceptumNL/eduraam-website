@@ -1,0 +1,37 @@
+---
+layout:     post
+title:      "Open Learning Analytics Center"
+subtitle:   "by Sander Latour"
+date:       2014-02-22
+header-img: ""
+published: True
+comments: True
+---
+
+This blogpost presents an idea for an open learning analytics center that provides insight in learning that takes place across a landscape of diverse educational resources. 
+
+Lets start with the motivation.
+
+## Shift: Personalization
+A shift that is occurring in education, and in all of society, is the move towards personalization. The previously dominating one-size-fits-all model is slowly being replaced by at least the intention to match the content to the individual. In part this concerns selecting the right type of content, but also the timing and the order of content is part of the personalization. 
+
+One approach for doing this is to create adaptive educational content, a direction in which many educational publishers are going. Instead of chapters or static exercises, interactive websites and apps are created. These learning objects are however often still packaged in a curriculum and disseminated as one product. Which up to a certain extend is comparable with using only the applications from an office software suite and not any of the individual alternatives, often as a way to ensure maximum interoperability and consistency. This certainly has its benefits, but it does not utilize the power of the network structure that is emerging.
+
+## Shift: Content is everywhere
+Educational content is everywhere. Not only did it expand to many more platforms and types of media, the supplier side of this content is also changing fundamentally. Where in the past a selected group of suppliers, typically publishers, was responsible for providing good content to learners and schools. The content can now come from virtually anyone with access to some
+distribution platform, such as the internet or more specifically the repositories of open educational resources. Certainly this development has not by definition made educational publishers obsolete, but they are certainly not the only source anymore where content is coming from. This shift can be seen as an instance of a more general shift towards network structures. Not surprisingly, this transition brings both new opportunities as well as new challenges, which will be discussed later on in more detail.
+
+## The potential wealth of open distribution
+A good example of this network is the app store on a mobile device. According to this online source, the US iTunes App store counts 264.113 active publishers. Furthermore roughly 10% of the apps published are for educational purposes, making it the second biggest category. Whether the numbers are accurate or not, the mere nature of the app store suggests that these numbers can be expected to be significantly higher than the number of large renowned publishers and the apps they produce. Given that the apps from these publishers are also in the app store, the other hundreds of thousands authors are just increasing the odds of better or more suited educational resources being present. With the increasing usage of tablets such as the iPad in classrooms, this could be enormously powerful for teachers to utilize in their attempt to personalize the curriculum material for their students.
+
+An app store containing educational apps is comparable to other repositories of open educational resources, both in its opportunities as well as in its challenges. A big challenge is how to assess the quality of the offered material. Or to put it in a concrete example, how could a teacher know whether the personalized curriculum of educational resources is effective?
+
+## Idea: Open Learning Analytics Center
+We propose a system which provides teachers and other stakeholders insight in learning experiences gained through educational resources from an open collection. These experiences could come from apps, other digital environments or from activities in the physical world. To support for the collection of activities on many different platforms, a standard exchange format should be used. At the moment the Experience API from ADL seems the most suited.  It will increase the chances of tools already being compatible in the future, compared to the situation when a custom API is used.
+
+This functionality already enables a Game-Center-like usage where you get some overview of what is being done across the different platforms. On top of this we propose to add milestones that allow for an easier reference in assessing how the student is doing in terms of acquired skills and competences. These milestones could come from national standards and/or be manually added by the teacher, student or the parents. The system will know when these milestones are passed by either receiving statements from a digital activity that is linked to it, for example a digital assessment, or by manually entered statements from the teacher, for example after witnessing some practical work. The learning experiences gained from the educational resources can then be analysed and visualized in context of the milestones that were attempted during or shortly after it. 
+
+The diversity of the educational resources is likely to complicate the comparability between them, for example items that are classified in one environment as entrance level calculus could be more difficult than items in a different environment that has the same classification. One possible solution is to work with IRT and ELO ratings as used in other systems, such as De Rekentuin. Other complications could come from the different grading scales and units. How do five stars relate to ten leaves? An approach would be to assume then all to be linear scales that can be normalized, but that might not be sufficient. On top of that, some data provided by educational resources are of a qualitative nature. These data are even harder, if not impossible, to compare. However, they could still provide useful information for a teacher when displayed in an overview. This combination of comparable, and aggregatable,  quantitative data and qualitative data results in a visualization challenge. 
+
+## So now what?
+Do you feel we are in the right direction, or are we missing the point? Can you provide feedback or are you interested in joining our effort in making this a reality? By all means, let yourself be heard. Leave a comment or contact me via Twitter [@sanderlatour](http://twitter.com/sanderlatour).  Sharing this on social networks is much appreciated.

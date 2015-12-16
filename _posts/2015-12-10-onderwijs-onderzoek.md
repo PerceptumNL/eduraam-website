@@ -2,7 +2,8 @@
 layout:     post
 title:      ""
 subtitle:   ""
-date:       2015-12-10
-header-img: "img/"
-published: false
+date:       
+header-img: ""
+published: False
+comments: True
 ---
