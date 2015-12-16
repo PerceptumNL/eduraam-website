@@ -3,6 +3,7 @@ layout: page
 title: "Achtergrond"
 description: "Dit houdt me bezig"
 header-img: "img/about-bg.jpg"
+comments: True
 ---
 
 <p>Mijn naam is Wijnand Baretta en ik ben gefascineerd door leren, onderwijs en technologie. Dat is dan ook waar ik me voornamelijk mee bezig houd, bij voorkeur ook in de combinatie van onderwijs, leren en technologie.</p> 

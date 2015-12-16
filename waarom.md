@@ -3,6 +3,7 @@ layout: page
 title: "Waarom"
 description: "...is dit een goed idee?"
 header-img: "img/about-bg.jpg"
+comments: True
 ---
 
 # Achtergrond

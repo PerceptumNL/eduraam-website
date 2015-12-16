@@ -3,6 +3,7 @@ layout: page
 title: "Hoe"
 description: "...krijg je dat voor elkaar?"
 header-img: "img/books.jpg"
+comments: True
 ---
 
 ## Gepersonaliseerd leren

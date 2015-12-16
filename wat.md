@@ -3,6 +3,7 @@ layout: page
 title: "Wat"
 description: "...maken we dan eigenlijk?"
 header-img: "img/woman-yellow-background.jpeg"
+comments: True
 ---
 
 ## Platform

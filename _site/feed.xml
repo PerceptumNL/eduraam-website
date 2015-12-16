@@ -3,10 +3,10 @@
   <channel>
     <title>Eduraam</title>
     <description>Hoe help je scholen en docenten op weg naar gepersonaliseerd leren?</description>
-    <link>http://www.eduraam.nl/eduraam/</link>
-    <atom:link href="http://www.eduraam.nl/eduraam/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 11 Dec 2015 12:30:42 +0100</pubDate>
-    <lastBuildDate>Fri, 11 Dec 2015 12:30:42 +0100</lastBuildDate>
+    <link>http://www.eduraam.nl/</link>
+    <atom:link href="http://www.eduraam.nl/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Fri, 11 Dec 2015 13:10:05 +0100</pubDate>
+    <lastBuildDate>Fri, 11 Dec 2015 13:10:05 +0100</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
   </channel>
