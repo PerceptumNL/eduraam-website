@@ -3,7 +3,7 @@ layout:     post
 title:      "Open Learning Analytics Center"
 subtitle:   "by Sander Latour"
 date:       2014-02-22
-header-img: ""
+header-img: "img/air.jpeg"
 published: True
 comments: True
 ---
