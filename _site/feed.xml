@@ -5,7 +5,9 @@
     <description>Hoe help je scholen en docenten op weg naar gepersonaliseerd leren?</description>
     <link>http://www.eduraam.nl/</link>
     <atom:link href="http://www.eduraam.nl/feed.xml" rel="self" type="application/rss+xml" />
-    <generator>Jekyll v3.0.1</generator>
+    <pubDate>Tue, 05 Jan 2016 14:26:20 +0100</pubDate>
+    <lastBuildDate>Tue, 05 Jan 2016 14:26:20 +0100</lastBuildDate>
+    <generator>Jekyll v2.4.0</generator>
     
       <item>
         <title>Open Learning Analytics Center</title>
